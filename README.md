@@ -5,4 +5,4 @@
 #### Technologies used to developed this project are bootstrap, React, Redux, Node, Express, Jwt Authentication, & Mongodb.
 
 
-##### CLICK THIS LINK TO VIEW THE PROJECT LIVE: https://markwisdomreeves.com
+##### CLICK THIS LINK TO VIEW THE PROJECT LIVE: https://expense-o.netlify.app
