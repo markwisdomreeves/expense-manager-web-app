@@ -1,2 +1,2 @@
-const baseURL = "https://expense-tracker-0.herokuapp.com/api";
+const baseURL = "http://localhost:5000/api";
 export default baseURL;
