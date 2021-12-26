@@ -1,6 +1,6 @@
-# Expense Manager Web Application
+## Income and Expense manager Web Application
 
-### This App allows users to manage their flow of incomes and expenses in one dashboard.
+### This Application allows users to manage their flow of incomes and expenses in one dashboard.
 
-### Technologies used to developed this project are bootstrap, React,
-Redux, Node, Express, Jwt Authentication, & Mongodb.
+#### Technologies used to developed this project are bootstrap, React, Redux, Node, Express, Jwt Authentication, & Mongodb.
+
